@@ -2,7 +2,6 @@
 👋 Hi, I am @Abdullah-Mehmood-242
 👀 I am interested in Data Science, App Development (Flutter),Cyber Security and AI Projects.
 🌱 I am currently studying (BSCS).
-🎮 I'm also a gamer, to be specific, a Pubg Mobile player.
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullahmehmood242)
