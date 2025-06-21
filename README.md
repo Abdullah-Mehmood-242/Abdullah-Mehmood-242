@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I am @Abdullah-Mehmood-242
-👀 I am interested in Data Science, App Development (Flutter),Cyber Security and AI Projects.
+👀 I am interested in Data Science, Cyber Security and AI Projects.
 🌱 I am currently studying (BSCS).
 # 🌐 Socials:
 
