@@ -1,12 +1,11 @@
-# 💫 About Me:
-👋 Hi, I am @Abdullah-Mehmood-242
-👀 I am interested in Data Science, Cyber Security and AI Projects.
-🌱 I am currently studying (BSCS).
-# 🌐 Socials:
+# About Me:
+Hi, I am @Abdullah-Mehmood-242
+I completed BSCS (Fall 2022 - Spring 2026) form The University of Lahore | Sargodha Campus, transitioning into Data Science.
+# Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullahmehmood242)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
@@ -18,15 +17,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Mehmood-242&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Mehmood-242&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Mehmood-242&theme=radical&hide_border=false&layout=compact)
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdullah-Mehmood-242&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-# ✍️ Random Dev Quote
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with @Abdullah-Mehmood-242 -->
