@@ -1,6 +1,7 @@
 # About Me:
 Hi, I am @Abdullah-Mehmood-242
-I completed BSCS (Fall 2022 - Spring 2026) form The University of Lahore | Sargodha Campus, transitioning into Data Science.
+I completed BSCS (Fall 2022 - Spring 2026) form The University of Lahore | Sargodha Campus.
+I am transitioning into Data Science.
 # Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullahmehmood242)
